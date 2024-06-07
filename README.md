@@ -1,4 +1,4 @@
-# Jonas Renault's personnal website
+# Dr. Surajit Panja's personnal website
 
 [![Jekyll](https://img.shields.io/gem/v/jekyll?label=jekyll)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll?label=minimal%20mistakes)](https://rubygems.org/gems/minimal-mistakes-jekyll)

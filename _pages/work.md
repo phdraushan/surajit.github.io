@@ -45,6 +45,8 @@ gallery4:
     alt: "Inria Mission Défense & Sécurité"
     title: "Inria Mission Défense & Sécurité"
 ---
+<!-- Raushan Edit here -->
+From 2014-2015, I served as an Assistant Professor(on contract) in the Dept. of EEE, NIT Jamshedpur, Jharkhand. I have joined IIIT Guwahati on 18 June, 2015. I am a member of the IEEE.
 
 **Project manager for Defense & Security research**, *INRIA* <span class="pull-right">2023 - </span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Python, Machine learning, JavaScript, Docker</span>  

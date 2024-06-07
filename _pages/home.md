@@ -6,7 +6,13 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I'm a senior research engineer and fullstack developer, with master's degrees in applied mathematics, computer science and artificial intelligence. I specialize in developing data analysis and visualization tools, mostly with Python and JavaScript frameworks.
+Hello, welcome to my home page.
+I am an Associate Professor in the Department of Electronics Communication Engineering, Indian Institute of Information Technology Guwahati. I received the BE degree in electronics and communication engineering from the University of Burdwan, West Bengal, the ME degree in electrical engineering from Jadavpur University, Kolkata, and the Ph.D. degree in electrical engineering from IIT Kharagpur, in 2015.
+
+From 2014-2015, I served as an Assistant Professor(on contract) in the Dept. of EEE, NIT Jamshedpur, Jharkhand. I have joined IIIT Guwahati on 18 June, 2015. I am a member of the IEEE.
+
+
+<!-- Hi! I'm a senior research engineer and fullstack developer, with master's degrees in applied mathematics, computer science and artificial intelligence. I specialize in developing data analysis and visualization tools, mostly with Python and JavaScript frameworks.
 
 I have twelve years of experience working as a software developer, and for the past six years I’ve been contributing to open-source projects while working as a research engineer for French research institutes (CNRS, INRIA). I have an interest for public service and projects that tackle current social and political problems through the development of human-focused software, data analysis and visualization.
 
@@ -16,4 +22,4 @@ Please take a look at [some of my work](/work).
 
 Here is my [resume](/assets/files/cv-jrenault-2022.pdf) (in french).
 
-Please contact me with any questions (email on the left).
+Please contact me with any questions (email on the left). -->

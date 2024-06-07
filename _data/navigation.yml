@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: "/"
     
-  - title: "Work"
-    url: /work/
+  # - title: "Work"
+  #   url: /work/
 
   - title: "Education"
     url: /education/
@@ -12,5 +12,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Hobbies"
-    url: /hobbies/
+  - title: "Conferences"
+    url: /publications/
+
+  # - title: "Hobbies"
+  #   url: /hobbies/

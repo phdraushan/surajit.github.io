@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jonas Renault
+title: Dr. Surajit Panja
 title_separator: "|"
-name: Jonas Renault
+name: Dr. Surajit Panja
 email: jonasrenault@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jonas Renault - Research Engineer, Senior Fullstack Developer, Project Manager
+  Dr. Surajit Panja - Research Engineer, Senior Fullstack Developer, Project Manager
 domain: jrenault.fr
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jrenault.fr" # the base hostname & protocol for your site, e.g. http://example.com
@@ -38,13 +38,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Author
 author:
-  name             : "Jonas Renault"
-  avatar           : "/assets/images/bio-photo-2.jpg"
-  bio              : "Research Engineer / Senior Fullstack Developer"
-  location         : "France"
+  name             : "Dr. Surajit Panja"
+  avatar           : "/assets/images/panjasir.jpg"
+  bio              : "Associate Professor (ECE)"
+  location         : "IIIT Guwahati, India"
   employer         :
-  email            : "jonasrenault@gmail.com"
-  github           : "jonasrenault"
+  email            : "Surajit@iiitg.ac.in"
+  github           : "https://github.com/phdraushan/"
 
 # Site Footer
 footer:
@@ -90,6 +90,16 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
+  # Conferences
+  - scope:
+      path: ""
+      type: Conferences
     values:
       layout: single
       author_profile: true
