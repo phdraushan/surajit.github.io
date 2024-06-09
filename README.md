@@ -3,7 +3,7 @@
 [![Jekyll](https://img.shields.io/gem/v/jekyll?label=jekyll)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll?label=minimal%20mistakes)](https://rubygems.org/gems/minimal-mistakes-jekyll)
 
-This is the repository for my personal website. Visit it at [https://jrenault.fr](https://jrenault.fr)
+This is the repository for my personal website. Visit it at [https://surjitpanja.com](https://surjitpanja.com)
 
 ## Credits
 
